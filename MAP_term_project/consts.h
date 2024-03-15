@@ -5,7 +5,7 @@ namespace consts
 {
 const int repeats_amount = 25;
 const std::chrono::milliseconds tasks_arrival_interval { 250 };
-const std::chrono::milliseconds perform_delay { 1600 };
+const std::chrono::milliseconds perform_delay { 800 };
 const std::chrono::milliseconds wait_delay { 2500 };
 }
 
